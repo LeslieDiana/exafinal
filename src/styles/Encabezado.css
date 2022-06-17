@@ -1,0 +1,12 @@
+.encabezado{
+    background-image: url("../images/uno.png");
+    padding: 5px;
+    width: 100%;
+}
+
+.foto{
+    display: flex;
+    height: 200px;
+    margin-top: 25%;
+    margin-left: 25%;
+}
